@@ -4,8 +4,8 @@ export const Footer = () => {
     <footer>
       <nav>
         <ul className="nav-list">
-          <li>Whatsapp</li>
-          <li>Instagram</li>
+          <li className="social-item whatsapp">Whatsapp</li>
+          <li className="social-item instagram">Instagram</li>
         </ul>
       </nav>
     </footer>

@@ -1,7 +1,7 @@
 footer {
   margin-top: 4rem;
 
-  background: var(--surface);
+  background: linear-gradient(135deg, #003366 0%, #001a33 100%); /* Degradado azul oscuro */
   border-top: 1px solid var(--border);
 
   padding: 1.5rem 3rem;
@@ -13,6 +13,7 @@ footer {
 
 footer p {
   color: var(--text-secondary);
+  color: var(--text);
 }
 
 footer .nav-list {
@@ -22,8 +23,29 @@ footer .nav-list {
 footer li {
   transition: 0.25s;
   cursor: pointer;
+  color: var(--text);
 }
 
 footer li:hover {
   color: var(--primary);
+}
+
+.social-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 20px 20px;
+  padding-left: 28px;
+  height: 24px;
+  cursor: pointer;
+}
+
+.social-item.instagram {
+  background-image: url('../../../public/img/contacto/instagram.png');
+}
+
+.social-item.whatsapp {
+  background-image: url('../../../public/img/contacto/whatsapp.png');
 }
