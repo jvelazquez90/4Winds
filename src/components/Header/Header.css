@@ -1,5 +1,5 @@
 header {
-  background: var(--surface);
+  background: linear-gradient(135deg, #003366 0%, #001a33 100%); /* Degradado azul oscuro */
   border-bottom: 1px solid var(--border);
 
   padding: 1rem 3rem;
