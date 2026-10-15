@@ -8,7 +8,7 @@ export const Item = ( { name, price, description, image, children } ) => {
       <p>${ price }</p>
 
       {/* Podemos usar children y reutilizar este componente */}
-      {children}
+      { children }
     </article>
   )
 };
