@@ -49,73 +49,73 @@
   },
   {
     "id": 7,
-    "name": "Zapato Hombre Marrón Premium",
-    "description": "Calzado de vestir en cuero mate color chocolate. Incluye detalles de costura a mano y suela de alta durabilidad, ideales para uso intensivo formal.",
-    "price": 45500,
+    "name": "Mouse inalambrico Apro",
+    "description": "",
+    "price": 6200,
     "image": "/img/electronic/IMG-20260426-WA0179.jpg",
     "category": "electronica"
   },
   {
     "id": 8,
-    "name": "Mouse inalambrico Apro",
-    "description": "",
-    "price": 6200,
+    "name": "Auricular Samsung",
+    "description": "Auricular Samsung AKG mano libre",
+    "price": 3400,
     "image": "/img/electronic/IMG-20260621-WA0269.jpg",
     "category": "electronica"
   },
   {
     "id": 9,
-    "name": "Zapato Hombre Marrón Premium",
-    "description": "Calzado de vestir en cuero mate color chocolate. Incluye detalles de costura a mano y suela de alta durabilidad, ideales para uso intensivo formal.",
-    "price": 45500,
+    "name": "Zapatilla circular",
+    "description": "Alargue 2m 4 entradas 4 usb 1000w",
+    "price": 13900,
     "image": "/img/electronic/IMG-20260817-WA0058.jpg",
     "category": "electronica"
   },
   {
     "id": 10,
-    "name": "Zapato Hombre Marrón Premium",
-    "description": "Calzado de vestir en cuero mate color chocolate. Incluye detalles de costura a mano y suela de alta durabilidad, ideales para uso intensivo formal.",
-    "price": 45500,
+    "name": "Adaptador enchufe triple",
+    "description": "Adaptador enchufe triple multiple 5 1 usb-2 tipo C",
+    "price": 7380,
     "image": "/img/electronic/IMG-20260824-WA0005.jpg",
     "category": "electronica"
   },
   {
     "id": 11,
-    "name": "Zapato Hombre Marrón Premium",
-    "description": "Calzado de vestir en cuero mate color chocolate. Incluye detalles de costura a mano y suela de alta durabilidad, ideales para uso intensivo formal.",
-    "price": 45500,
+    "name": "Parlante Bluetooth",
+    "description": "Parlante Bluetooth 3 PLG C/luz masuya",
+    "price": 14100,
     "image": "/img/electronic/IMG-20260831-WA0003.jpg",
     "category": "electronica"
   },
   {
     "id": 12,
-    "name": "Zapato Hombre Marrón Premium",
-    "description": "Calzado de vestir en cuero mate color chocolate. Incluye detalles de costura a mano y suela de alta durabilidad, ideales para uso intensivo formal.",
-    "price": 45500,
+    "name": "Zapatilla 6 tomas + 4 usb",
+    "description": "6 tomas de corriente, 4 puertos usb, encendido y apagado, segura y resistente.",
+    "price": 16600,
     "image": "/img/electronic/IMG-20260906-WA0052.jpg",
     "category": "electronica"
   },
   {
     "id": 13,
-    "name": "Zapato Hombre Marrón Premium",
-    "description": "Calzado de vestir en cuero mate color chocolate. Incluye detalles de costura a mano y suela de alta durabilidad, ideales para uso intensivo formal.",
-    "price": 45500,
+    "name": "Cable HDMI a HDMI",
+    "description": "Cable HDMI a HDMI 5 metros en bolsa.",
+    "price": 5790,
     "image": "/img/electronic/IMG-20260928-WA0017.jpg",
     "category": "electronica"
   },
   {
     "id": 14,
-    "name": "Zapato Hombre Marrón Premium",
-    "description": "Calzado de vestir en cuero mate color chocolate. Incluye detalles de costura a mano y suela de alta durabilidad, ideales para uso intensivo formal.",
-    "price": 45500,
+    "name": "Soporte TV movible",
+    "description": "Soporte TV movible 14 a 55 pulgadas. Soporta hasta 30 kg. Brazo extensible.",
+    "price": 22200,
     "image": "/img/electronic/IMG-20260928-WA0019.jpg",
     "category": "electronica"
   },
   {
     "id": 15,
-    "name": "Zapato Hombre Marrón Premium",
-    "description": "Calzado de vestir en cuero mate color chocolate. Incluye detalles de costura a mano y suela de alta durabilidad, ideales para uso intensivo formal.",
-    "price": 45500,
+    "name": "Teclado y mouse USB",
+    "description": "",
+    "price": 20000,
     "image": "/img/electronic/IMG-20260928-WA0023.jpg",
     "category": "electronica"
   }
