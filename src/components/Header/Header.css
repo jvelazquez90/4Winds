@@ -1,5 +1,5 @@
 header {
-  background: linear-gradient(135deg, #003366 0%, #001a33 100%); /* Degradado azul oscuro */
+  background: linear-gradient(135deg, #003366 0%, #001a33 100%);
   border-bottom: 1px solid var(--border);
 
   padding: 1rem 3rem;
@@ -7,6 +7,10 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
 .logo-container a {
