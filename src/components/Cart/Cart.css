@@ -28,6 +28,14 @@
   padding: 1rem;
 }
 
+.texto-finalizar {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  -webkit-text-stroke: 1px black;
+}
+
 .btn-finalizar {
   margin-top: 10px;
+  font-weight: bold;
 }
